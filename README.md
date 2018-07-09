@@ -1,4 +1,10 @@
 <!DOCTYPE HTML>
+<HTML
+  <head>
+  </head>
+  <body>
+  </body>
+</HTML>
 # Well-Formed HTML Document Lab
 
 ## Objectives
