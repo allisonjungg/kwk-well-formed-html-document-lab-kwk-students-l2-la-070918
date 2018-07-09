@@ -1,3 +1,4 @@
+<!DOCTYPE HTML>
 # Well-Formed HTML Document Lab
 
 ## Objectives
